@@ -23,7 +23,7 @@ function operacionMatematica(n1, n2, cb) {
 function sumarArray(numeros, cb) {
   // Suma todos los números enteros (int/integers) de un array ("numeros")
   // Pasa el resultado a `cb`
-  // No es necesario devolver nada
+  // No es necesario devolver nada 
   //Tu código:
   //numeros = [2, 3, 84, 16, 31]
   //cb = resultado
